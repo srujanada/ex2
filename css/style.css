@@ -1,0 +1,15 @@
+form input[type="submit"] {
+    color: red;
+}
+
+form input[type="reset"]:hover {
+    background-color:#555;
+}
+
+.hide {
+    visibility:hidden;
+}
+
+.show {
+    visibility:visible;
+}
